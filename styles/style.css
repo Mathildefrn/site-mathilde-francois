@@ -1,0 +1,15 @@
+@import "banner.css";
+@import "buttons.css";
+@import "footer.css";
+@import "cards.css";
+
+body {
+	margin: 0;
+	background-color: #E3DAD5;
+
+}
+
+a{
+	text-decoration: none;
+}
+
